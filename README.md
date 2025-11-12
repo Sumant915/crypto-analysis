@@ -1,4 +1,4 @@
-# Crypto Analysis
+# Crypto Analysis DASHBOARD
 
 This repository contains an analysis of the cryptocurrency market. The goal of the project is to ingest live or historic crypto data from the CoinGecko public API, clean and transform it using Power Query (Power BI / Power Query Editor), and produce interactive analyses and dashboards in Power BI Desktop. All cleaned outputs and exported visuals are stored in the `Result/` folder.
 
